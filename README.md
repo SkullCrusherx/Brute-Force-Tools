@@ -1,4 +1,4 @@
-# BRUT4L
+# BRUT4L bruteforce tools
 HELLO HERE IS Skull Crusher .....
 1) DOWNLOAD FIRST REQUIREMENT FROM THIS COMMAND "pip3 install requirement.txt"
 2) AFTER RUN RUN.SH WITH THIS COOMAND "./run.sh"
