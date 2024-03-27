@@ -5,6 +5,8 @@ HELLO HERE IS Skull Crusher .....
 3) GENERATE FILE IT WILL NAMED BY PASS.TXT IN BRUTAL FOLDER
 4) WHEN FILE GENERATED IT WILL BE USED IN BRUTEFORCE TOOL
 5) This is for Kali Linux
+6) this is use mainly local host u could modify using python and shell command
+   
 
 ----------------------------------------------------------------------------------------					
 					
